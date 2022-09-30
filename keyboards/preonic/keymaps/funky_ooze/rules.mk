@@ -1,0 +1,5 @@
+SRC += muse.c
+
+TAP_DANCE_ENABLE = no
+ENCODER_ENABLE = yes
+COMBO_ENABLE = yes
