@@ -539,7 +539,7 @@ case NOTEPAD:
 		 
 case PASSW:
 	if (record->event.pressed) {
-		SEND_STRING("ChHFTPetro?}}8");
+		SEND_STRING("youWish1234");
 		} else {
 					 
 		}
@@ -547,7 +547,7 @@ case PASSW:
 		
 case PWHOME:
 	if (record->event.pressed) {
-		SEND_STRING("AmEsadS/)8)/1");
+		SEND_STRING("myAss666");
 		} else {
 					
 		}
